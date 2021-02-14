@@ -36,7 +36,6 @@
 </a> <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </a>
-
 <!-- <a href="https://styled-components.com/" target="_blank"> <img src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png" alt="styled-components" width="40" height="40"/> </a> -->
 
 <a href="https://reactjs.org/" target="_blank">
@@ -57,9 +56,14 @@
 </a> <a href="https://heroku.com/" target="_blank">
 <img src="https://brand.heroku.com/static/media/heroku-logo-stroke-gradient.bb410472.svg" alt="sass" width="40" height="40"/>
 </a>
+</a> <a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="css3" width="40" height="40"/>
+</a>
+</a> <a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="css3" width="40" height="40"/>
+</a>
 
 <!-- <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://figma.com" target="_blank"> <img src="https://miro.medium.com/max/875/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" alt="figma" width="40" height="40"/> </a>  -->
 
 </p>
-
