@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Goyal</h1>
-<h3 align="center">Instrumentation & Control Engineer by degree, Software Engineer by passion.</h3>
+<h3 align="center">Instrumentation & Control Engineer by degree, Software developer by passion.</h3>
 
--   🔭 Looking for opportunities as software engineer
+-   🔭 Looking for opportunities in Software development domain
 
 -   ✏️ Studied JavaScript and ReactJS on
     [FrontEnd Masters](https://frontendmasters.com/)
