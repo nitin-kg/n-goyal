@@ -6,9 +6,9 @@
 -   ✏️ Studied JavaScript and ReactJS on
     [FrontEnd Masters](https://frontendmasters.com/)
 
--   ❓ Currently studying Node/Express and MongoDB
+-   ❓ Currently working on my Node/Express and MongoDB skills
 
--   🖥️ My latest project is the url-shortner (MERN)
+-   🖥️ My latest project is the url-shortner (MEN)
     [Shortie](https://www.google.com/)
 
 -   👨‍💻 My projects are available right here on Github
