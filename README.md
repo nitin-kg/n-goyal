@@ -1,4 +1,9 @@
+<div>
 <h1 align="center">Hi 👋, I'm Nitin Goyal</h1>
+<p align="left">
+<a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
+</p>
+</div>
 <h3 align="center">Instrumentation & Control Engineer by degree, Software developer by passion.</h3>
 
 -   🔭 Looking for opportunities in Software development domain
@@ -12,12 +17,6 @@
     [Shortie](https://www.google.com/)
 
 -   👨‍💻 My projects are available right here on Github
-
-## Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools:
 
