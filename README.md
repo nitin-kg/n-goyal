@@ -13,14 +13,10 @@
 
 -   👨‍💻 My projects are available right here on Github
 
--   💬 Ask me about **anything!**
-
--   📫 How to reach me **nitingoyal0996@gmail.com**
-
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedro-klepa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
