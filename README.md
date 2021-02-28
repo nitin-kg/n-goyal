@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nitin Goyal <p>
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p></h1>
-<h3 align="center">Instrumentation & Control Engineer by degree, Software developer by passion.</h3>
+<h5 align="center">I am passionate about software development and tech in general. From day one of engineering I have admired tech and it's impact on human life. I am also a learner by heart and I can adapt & build stuff.</h5>
 
 -   🔭 Looking for opportunities in Software development domain
 
 -   ✏️ Studied JavaScript and ReactJS on
     [FrontEnd Masters](https://frontendmasters.com/)
 
--   ❓ Currently working on my Node/Express and MongoDB skills
+-   ❓ Currently working on backend skills, Node/Express and MongoDB to name a few
 
--   🖥️ My latest project is the url-shortner (MEN)
+-   🖥️ My latest project is the url-shortner
     [Shortie](https://www.google.com/)
 
--   👨‍💻 My projects are available right here on Github
+-   👨‍💻 My other projects are also available right here on Github, if you wanna check them out!
 
 ## Languages and Tools:
 
