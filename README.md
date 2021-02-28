@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nitin Goyal <p align="left">
+<h1 align="center">Hi 👋, I'm Nitin Goyal <p>
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
-    </p></h1>
+</p></h1>
 <h3 align="center">Instrumentation & Control Engineer by degree, Software developer by passion.</h3>
 
 -   🔭 Looking for opportunities in Software development domain
