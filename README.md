@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitin Goyal <p>
+<h1 align="center">Hi, I'm Nitin <p>
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p></h1>
 <h4 align="center">Bad Designer, Good Developer more like Bad Handwritting, Good Notes?!</h4>
