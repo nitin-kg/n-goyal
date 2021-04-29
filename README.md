@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nitin Goyal <p>
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p></h1>
-<h5 align="center">I am passionate about software development and tech in general. From day one of engineering I have admired tech and it's impact on human life. I am also a learner by heart and I can adapt & build stuff.</h5>
+<h3 align="center">Bad Designer, Good Developer more like Bad Handwritting, Good Notes</h3>
+<h5 align="center">I admire Tech in general specially Startups. I am a fast learner and a problem solver. I can adapt to new changes and requriments pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! ;)</h5>
 
--   🔭 Looking for opportunities in Software development domain
+-   🔭 Looking for opportunities in Software Engineering
 
--   ✏️ Studied JavaScript and ReactJS on
-    [FrontEnd Masters](https://frontendmasters.com/)
-
--   ❓ Currently working on backend skills, Node/Express and MongoDB to name a few
-
--   🖥️ My latest project is the url-shortner
-    [Shortie](https://www.google.com/)
-
--   👨‍💻 My other projects are also available right here on Github, if you wanna check them out!
+-   ❓ Currently working on __MERN__ Stack. Oh btw! I love React.JS.
 
 ## Languages and Tools:
 
