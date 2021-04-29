@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitin Goyal <p>
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p></h1>
-<h3 align="center">Bad Designer, Good Developer more like Bad Handwritting, Good Notes</h3>
-<h5 align="center">I admire Tech in general specially Startups. I am a fast learner and a problem solver. I can adapt to new changes and requriments pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! ;)</h5>
+<h4 align="center">Bad Designer, Good Developer more like Bad Handwritting, Good Notes</h4>
+<h3 align="center">I admire Tech in general specially Startups. I am a fast learner and a problem solver. I can adapt to new changes and requriments pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! ;)</h3>
 
 -   🔭 Looking for opportunities in Software Engineering
 
