@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/nitin-goyal" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="pedro-klepa" height="30" width="40" /></a>
 </p></h1>
 <h4 align="center">Bad Designer, Good Developer</h4> <h5 align="center">(more like Bad Handwritting, Good Notes?!)</h5>
-<h3 align="center">I can adapt to new environment pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! 😉 I admire Tech and the way that it's changing the world right now. 🌍</h3>
+<h3 align="center">I am a quick learner and a problem solver. ⛹🏻‍♂️ I can adapt to new environment pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! 😉 I admire Tech and the way that it's changing the world right now. 🌍</h3>
 
 -   🔭 Looking for opportunities in Software Engineering
 
