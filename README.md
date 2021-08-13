@@ -4,6 +4,8 @@
 <h4 align="center">Bad Designer, Good Developer</h4> <h5 align="center">(more like Bad Handwritting, Good Notes?!)</h5>
 <h3 align="center">I am a quick learner and a problem solver. ⛹🏻‍♂️ I can adapt to new environment pretty smoothly, might be a result of my on the move lifestyle or might be I'm a natural, we'd never know! 😉 I admire Tech and the way that it's changing the world right now. 🌍</h3>
 
+![](https://komarev.com/ghpvc/?username=n-goyal)
+
 -   🔭 Looking for opportunities in Software Engineering
 
 -   ❓ Currently working on __MERN__ Stack. Oh btw! I love React.JS.
