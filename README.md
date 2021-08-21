@@ -6,9 +6,13 @@
 
 ![](https://komarev.com/ghpvc/?username=n-goyal)
 
+-   👨🏼‍🎓 I have learned most of the javascript from Frontend Masters, including React.JS, Redux and Node.js
+
+-   ❓ Currently working on __MERN__ Stack & __Salesforce__
+
 -   🔭 Looking for opportunities in Software Engineering
 
--   ❓ Currently working on __MERN__ Stack. Oh btw! I love React.JS.
+-   📽️ You can explore my github and checkout projects I have built (some of them are hosted live) 
 
 ## Languages and Tools:
 
